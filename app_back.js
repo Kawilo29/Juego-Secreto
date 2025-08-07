@@ -1,4 +1,4 @@
-
+//comentario de prueba y cambi de branch "desarrollo" en git
 let numeroSecreto = generarNumeroSecreto();
 
 function asignarTextoElemento(elemeto, texto) {

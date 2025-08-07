@@ -1,3 +1,4 @@
+//comentario de prueba
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
